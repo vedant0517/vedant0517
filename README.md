@@ -21,7 +21,7 @@ I enjoy turning academic problems and ideas into clean, optimized code and pract
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=vedant0517&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vedant0517&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedant0517&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
